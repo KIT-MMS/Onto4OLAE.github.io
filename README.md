@@ -11,6 +11,6 @@ The ontology has been built using web ontology language (OWL) and protégé soft
 
 - **How to exploit the ontology?**
 
-The ontology is published as a webpage on the following link. https://kit-mms.github.io/Onto4OLAE.github.io/
+The ontology is published as a webpage on the following link. https://kit-mms.github.io/Onto4OLAE.github.io/.
 The MUSICODE_Ontology.ttl file can be viewed in any ontology editor offline, e.g., Protégé, online by using the WEBVOWL tool. 
 Ontologies_for_MUSICODE.pdf contains more information about ontology development process and some specified ontology views.
